@@ -45,7 +45,7 @@ A simple yet powerful iOS app designed to track attendance for workers or studen
 ---
 
 ## 🎯 Future Enhancements
-Cloud-based storage for global accessibility
-Notifications for missed attendance logs
-Advanced analytics and reporting features
-Support for multiple roles (e.g., manager, employee, student)
+- Cloud-based storage for global accessibility
+- Notifications for missed attendance logs
+- Advanced analytics and reporting features
+- Support for multiple roles (e.g., manager, employee, student)
