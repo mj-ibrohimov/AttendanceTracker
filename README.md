@@ -29,13 +29,10 @@ A simple yet powerful iOS app designed to track attendance for workers or studen
 ---
 
 ## 📸 Screenshots
-
-![Home Screen](#)  
-*Add a screenshot of the home screen with the Tap In/Out button and chart.*
-
-![Profile Page](#)  
-*Add a screenshot of the profile badge.*
-
+<div style="display: flex; align-items: center;">
+<img src="Home_screen.png" alt="Home screen" width="250" style="border-radius: 50%;" />
+<img src="Profile_page.png" alt="Profile view" width="250" style="border-radius: 50%;" />
+</div>
 ---
 
 ## 🛠️ Technologies Used
